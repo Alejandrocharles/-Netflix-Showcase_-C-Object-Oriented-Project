@@ -1,0 +1,50 @@
+p 001 Conjuro Terror 107 2
+e 002 Piloto Drama 42 4 Parasitos 2 3
+e 003 Se_busca_ayuda Infantil 20 3 Bob_Esponja 1 1
+p 004 Avengers Accion 143 5
+e 005 La_noche_oscura Drama 152 2 Gotham 3 2
+e 006 El_secreto_del_bosque Terror 60 1 Stranger_Things 1 2
+p 007 El_resplandor Terror 144 4
+e 008 El_viaje_del_heroe Accion 50 3 The_Umbrella_Academy 2 4
+e 009 En_busqueda_del_tesoro Infantil 90 4 La_casa_de_papel 4 1
+p 010 El_padrino Drama 175 1
+e 011 El_despertar_del_mago Ciencia_Ficcion 65 5 Juego_de_tronos 1 3
+e 012 Operacion_rescate Accion 120 2 Mission_Impossible 3 5
+p 013 Titanic Romance 195 3
+e 014 La_leyenda_del_dragon Infantil 75 1 Avatar_La_leyenda_de_Aang 2 1
+e 015 En_busqueda_del_tesoro Accion 120 4 Indiana_Jones 1 4
+p 016 El_gran_showman Drama 105 2
+e 017 El_descubrimiento_del_tesoro Terror 90 5 La_maldicion_de_Oak_Island 2 2
+e 018 El_exilio_de_la_reina Accion 55 3 Vikings 1 3
+p 019 El_rey_leon Infantil 89 4
+e 020 El_retorno_del_caballero Accion 152 2 Batman_La_serie_animada 3 1
+p 021 La_red_social Drama 120 5
+e 022 La_caza_del_tesoro Accion 90 2 Lost 2 5
+e 023 La_venganza_de_los_sith Ciencia_Ficcion 140 1 Star_Wars:_The_Clone_Wars 1 5
+p 024 El_codigo_da_Vinci Drama 149 3
+e 025 El_caso_del_crimen Accion 60 2 True_Detective 2 1
+e 026 La_ultima_frontera Ciencia_Ficcion 110 1 Star_Trek 3 5
+p 027 Interestelar Ciencia_Ficcion 169 4
+e 028 El_infiltrado Accion 50 2 Homeland 1 4
+e 029 El_asesinato_en_el_expreso_de_Oriente Drama 114 4 Poirot 3 2
+p 030 El_senor_de_los_anillos:_La_comunidad_del_anillo Ciencia_Ficcion 178 3
+e 031 La_busqueda_del_talisman Accion 80 4 Las_cronicas_de_Narnia 2 3
+e 032 El_robo_del_siglo Drama 120 2 La_casa_de_papel 4 3
+p 033 Pulp_Fiction Drama 154 5
+e 034 El_juego_del_escorpion Terror 45 1 Sherlock 2 1
+e 035 El_expediente_X Ciencia_Ficcion 60 3 Expediente_X 3 4
+p 036 Forrest_Gump Drama 142 4
+e 037 El_misterio_del_faro Accion 95 2 Stranger_Things 3 2
+e 038 El_asesinato_en_el_orient_express Drama 114 4 Poirot 2 5
+p 039 El_pianista Drama 150 1
+e 040 El_secuestro_del_presidente Accion 110 3 Olympus_Has_Fallen 1 2
+e 041 La_reina_del_desierto Drama 128 2 The_Crown 1 5
+p 042 El_rey_arturo:_La_leyenda_de_la_espada Accion 126 5
+e 043 El_robo_del_siglo Drama 100 2 La_casa_de_papel 3 1
+e 044 El_jardin_secreto Infantil 90 3 El_principe_de_Egipto 1 3
+p 045 El_gran_hotel_Budapest Drama 99 3
+e 046 La_noche_de_los_misterios Terror 60 4 Stranger_Things 3 5
+e 047 El_robo_del_siglo Drama 90 2 La_casa_de_papel 4 1
+p 048 El_discurso_del_rey Drama 118 2
+e 049 La_busqueda_del_grial Accion 110 3 Indiana_Jones 2 4
+e 050 La_llegada Ciencia_Ficcion 116 4 Black_Mirror 4 2
